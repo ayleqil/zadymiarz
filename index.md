@@ -3,6 +3,7 @@
 witam, zapraszam do sklepu
 
 [tu link chinczyk](https://www.youtube.com/watch?v=IJDgkrtUlTc)
+kliknij chinczyka dawaj
 
 
 ```szczegoly
